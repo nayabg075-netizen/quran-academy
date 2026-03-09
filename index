@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta name="google-site-verification" content="a7jhrKu9oUPZgmXoGLS559Jjs6R1skg_3Q81dOUgqFA" /><style>
-body{font-family:Arial;margin:0;background:#f5f5f5;color:#222}
-header{background:#0b6b43;color:#fff;padding:40px;text-align:center}
+<meta name="google-site-verification" content="a7jhrKu9oUPZgmXoGLS559Jjs6R1skg_3Q81dOUgqFA" />header{background:#0b6b43;color:#fff;padding:40px;text-align:center}
 nav{background:#083d27;padding:12px;text-align:center}
 nav a{color:white;margin:0 15px;text-decoration:none;font-weight:bold}
 section{padding:60px 20px;text-align:center}
